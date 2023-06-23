@@ -1,0 +1,12 @@
+openai
+pandas
+streamlit
+unstructured
+tiktoken
+pinecone-client
+langchain==0.0.209
+python-dotenv
+pypdf2
+pyspark
+chromadb
+pandas
